@@ -5,6 +5,11 @@ venv/
 .venv/
 *.egg-info/
 
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
 # Environment variables
 .env
 .env.local

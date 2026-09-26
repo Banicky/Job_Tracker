@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+authlib
+httpx
+itsdangerous
+python-dotenv
+sqlalchemy
+cryptography
+anthropic
+pydantic
